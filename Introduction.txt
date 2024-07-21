@@ -27,7 +27,7 @@
         <li>- piece of clothing</li>  
         <li>- headgear</li>  
         <li>- belt</li>  
-        <li>- shoes</li>  
+        <li>- footwear</li>  
         <li>- gloves</li>  
         <li>- necklace</li> 
         <li>- finger accessory</li> 
